@@ -4,7 +4,7 @@
 flowchart TD
   A[User’s Browser]
   B[DNS Resolution]
-  C[IP Address & Port (e.g. 172.217.12.46:443)]
+  C["IP Address & Port (e.g. 172.217.12.46:443)"]
   D[TCP 3‑Way Handshake]
   E[TLS Handshake (Encryption Established)]
   F[Firewall Inspection]
