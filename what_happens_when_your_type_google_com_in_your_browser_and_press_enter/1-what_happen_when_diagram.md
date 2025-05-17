@@ -6,7 +6,7 @@ flowchart TD
   B[DNS Resolution]
   C["IP Address & Port (e.g. 172.217.12.46:443)"]
   D[TCP 3‑Way Handshake]
-  E[TLS Handshake (Encryption Established)]
+  E["TLS Handshake (Encryption Established)"]
   F[Firewall Inspection]
   G[Load Balancer]
   H[Web Server]
