@@ -104,4 +104,4 @@ Once the application server has generated the HTML content for the Google homepa
 
 And that's it! A seemingly simple act triggers a whirlwind of activity across the internet, all designed to deliver the webpage you requested quickly and securely. While this explanation covers the main components, the actual infrastructure and processes at companies' scale like Google's are even more complex and optimized.
 
-To view the schema of this process, see the following [file](./1-what_happen_when_diagram).
+To view the schema of this process, see the following [file](./1-what_happen_when_diagram.md).
