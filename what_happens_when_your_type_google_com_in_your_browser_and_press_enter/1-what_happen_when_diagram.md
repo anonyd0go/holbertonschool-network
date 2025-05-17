@@ -23,11 +23,6 @@ flowchart TD
   H --> I
   I --> J
 
-  %% Annotations
-  click B href "#"
-  click C href "#"
-  click E href "#"
-
   classDef proc fill:#f9f,stroke:#333,stroke-width:1px;
   class B,C,D,E,F,G,H,I,J proc;
 ```
