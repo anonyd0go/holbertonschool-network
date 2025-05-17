@@ -23,7 +23,6 @@ flowchart TD
   H --> I
   I --> J
 
-  classDef stroke-width:1px;
   class B,C,D,E,F,G,H,I,J proc;
 ```
 
